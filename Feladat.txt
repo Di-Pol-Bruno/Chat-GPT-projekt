@@ -1,0 +1,17 @@
+Chat GPT -- eredete
+Mi az eredeti célja? / Mi volt?
+Történelmi áttekintés
+
+Milyen fajta AI és MI létezik
+Különbség az AI és MI között
+
+Miben, hogyan kellene fejleszteni? (pl: magyar)
+Mik a hibái?
+Kell-e és ha igen milyen szabályok közé szorítani
+Előnyei, hátrányai
+Külsőleg & használatban a legkedvezőbb --> Milyen lenne?
+
+TRELLO kell GIT HUB kell
+Munka felosztás
+
+Google documentben a létrehozás
